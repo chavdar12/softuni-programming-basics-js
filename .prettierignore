@@ -1,0 +1,15 @@
+.github/
+*.yml
+*.yaml
+node_modules/
+dist/
+build/
+coverage/
+.angular/
+package-lock.json
+*.min.*
+*.md
+**/seed/**
+# Exercise tests compare the pages' raw text, and re-wrapping HTML changes it
+*.html
+*.hbs

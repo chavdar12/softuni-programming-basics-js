@@ -1,0 +1,56 @@
+# SoftUni Programming Basics with JavaScript
+
+Solutions for the SoftUni Programming Basics with JavaScript course: simple calculations, conditional statements, for
+and while loops, nested loops and exam preparation. One `.js` file per problem.
+
+## Lectures
+
+| #   | Lecture | Exercises |
+| --- | ------- | --------- |
+| 001 | First Steps in Coding | [Hello Soft Uni](001-First-Steps-In-Coding/01.helloSoftUni.js) · [Nums 1 to 10](001-First-Steps-In-Coding/02.nums1To10.js) · [Square Area](001-First-Steps-In-Coding/03.squareArea.js) · [Inches to Centimeters](001-First-Steps-In-Coding/04.inchesToCentimeters.js) · [Greeting by Name](001-First-Steps-In-Coding/05.greetingByName.js) · [Concatenate Data](001-First-Steps-In-Coding/06.concatenateData.js) · [Projects Creation](001-First-Steps-In-Coding/07.projectsCreation.js) · [Pet Shop](001-First-Steps-In-Coding/08.petShop.js) · [Yard Greening](001-First-Steps-In-Coding/09.yardGreening.js) |
+| 002 | Exercise: First Steps in Coding | [USD to BGN](002-Exercise-First-Steps-In-Coding/01.usdToBgn.js) · [Radians to Degrees](002-Exercise-First-Steps-In-Coding/02.radiansToDegrees.js) · [Deposit Calculator](002-Exercise-First-Steps-In-Coding/03.depositCalculator.js) · [Vacation Books List](002-Exercise-First-Steps-In-Coding/04.vacationBooksList.js) · [Supplies for School](002-Exercise-First-Steps-In-Coding/05.suppliesForSchool.js) · [Repainting](002-Exercise-First-Steps-In-Coding/06.repainting.js) · [Food Delivery](002-Exercise-First-Steps-In-Coding/07.foodDelivery.js) · [Basketball Equipment](002-Exercise-First-Steps-In-Coding/08.basketballEquipment.js) · [Fish Tank](002-Exercise-First-Steps-In-Coding/09.fishTank.js) |
+| 003 | Conditional Statements | [Excellent Grade](003-Conditional-Statements/01.excellentGrade.js) · [Greater Number](003-Conditional-Statements/02.greaterNumber.js) · [Even or Odd](003-Conditional-Statements/03.evenOrOdd.js) · [Password Guess](003-Conditional-Statements/04.passwordGuess.js) · [Number 100 to 200](003-Conditional-Statements/05.number100To200.js) · [Speed Info](003-Conditional-Statements/06.speedInfo.js) · [Area of Figures](003-Conditional-Statements/07.areaOfFigures.js) |
+| 004 | Exercise: Conditional Statements | [Sum Seconds](004-Exercise-Conditional-Statements/01.sumSeconds.js) · [Bonus Score](004-Exercise-Conditional-Statements/02.bonusScore.js) · [Time Plus 15 Minutes](004-Exercise-Conditional-Statements/03.timePlus15Minutes.js) · [Toy Shop](004-Exercise-Conditional-Statements/04.toyShop.js) · [Godzilla vs Kong](004-Exercise-Conditional-Statements/05.godzillaVsKong.js) · [World Swimming Record](004-Exercise-Conditional-Statements/06.worldSwimmingRecord.js) · [Shopping](004-Exercise-Conditional-Statements/07.shopping.js) · [Lunch Break](004-Exercise-Conditional-Statements/08.lunchBreak.js) |
+| 005 | Conditional Statements Advanced | [Day of Week](005-Conditional-Statements-Advanced/01.dayOfWeek.js) · [Weekend or Working Day](005-Conditional-Statements-Advanced/02.weekendOrWorkingDay.js) · [Animal Type](005-Conditional-Statements-Advanced/03.animalType.js) · [Personal Titles](005-Conditional-Statements-Advanced/04.personalTitles.js) · [Small Shop](005-Conditional-Statements-Advanced/05.smallShop.js) · [Number in Range](005-Conditional-Statements-Advanced/06.numberInRange.js) · [Working Hours](005-Conditional-Statements-Advanced/07.workingHours.js) · [Cinema Ticket](005-Conditional-Statements-Advanced/08.cinemaTicket.js) · [Fruit or Vegetable](005-Conditional-Statements-Advanced/09.fruitOrVegetable.js) · [Invalid Number](005-Conditional-Statements-Advanced/10.invalidNumber.js) · [Fruit Shop](005-Conditional-Statements-Advanced/11.fruitShop.js) · [Trade Commissions](005-Conditional-Statements-Advanced/12.tradeCommissions.js) |
+| 006 | Exercise: Conditional Statements Advanced | [Cinema](006-Exercise-Conditional-Statements-Advanced/01.cinema.js) · [Summer Outfit](006-Exercise-Conditional-Statements-Advanced/02.summerOutfit.js) · [New House](006-Exercise-Conditional-Statements-Advanced/03.newHouse.js) · [Fishing Boat](006-Exercise-Conditional-Statements-Advanced/04.fishingBoat.js) · [Journey](006-Exercise-Conditional-Statements-Advanced/05.journey.js) · [Operations Between Numbers](006-Exercise-Conditional-Statements-Advanced/06.operationsBetweenNumbers.js) · [Hotel Room](006-Exercise-Conditional-Statements-Advanced/07.hotelRoom.js) · [On Time for the Exam](006-Exercise-Conditional-Statements-Advanced/08.onTimeForTheExam.js) · [Ski Trip](006-Exercise-Conditional-Statements-Advanced/09.skiTrip.js) |
+| 007 | For Loops | [Numbers 1 to 100](007-For-Loops/01.numbers1To100.js) · [Numbers N to 1](007-For-Loops/02.numbersNTo1.js) · [Numbers 1 to N with Step 3](007-For-Loops/03.numbers1ToNWithStep3.js) · [Even Powers of 2](007-For-Loops/04.evenPowersOf2.js) · [Character Sequence](007-For-Loops/05.characterSequence.js) · [Vowels Sum](007-For-Loops/06.vowelsSum.js) · [Sum of Digits](007-For-Loops/07.sumOfDigits.js) · [Numbers Divisible by 9](007-For-Loops/08.numbersDivisibleBy9.js) |
+| 008 | Exercise: for Loops | [Numbers Ending in 7](008-Exercise-For-Loops/01.numbersEndingIn7.js) · [Multiplication Table](008-Exercise-For-Loops/02.multiplicationTable.js) · [Histogram](008-Exercise-For-Loops/03.histogram.js) · [Clever Lily](008-Exercise-For-Loops/04.cleverLily.js) · [Salary](008-Exercise-For-Loops/05.salary.js) · [Oscars](008-Exercise-For-Loops/06.oscars.js) · [Trekking Mania](008-Exercise-For-Loops/07.trekkingMania.js) · [Tennis Ranklist](008-Exercise-For-Loops/08.tennisRanklist.js) |
+| 009 | While Loops | [Read Text](009-While-Loops/01.readText.js) · [Password](009-While-Loops/02.password.js) · [Sum Numbers](009-While-Loops/03.sumNumbers.js) · [Sequence 2k Plus 1](009-While-Loops/04.sequence2kPlus1.js) · [Account Balance](009-While-Loops/05.accountBalance.js) · [Max Number](009-While-Loops/06.maxNumber.js) · [Min Number](009-While-Loops/07.minNumber.js) · [Graduation](009-While-Loops/08.graduation.js) |
+| 010 | Exercise: While Loops | [Old Books](010-Exercise-While-Loops/01.oldBooks.js) · [Exam Preparation](010-Exercise-While-Loops/02.examPreparation.js) · [Vacation](010-Exercise-While-Loops/03.vacation.js) · [Walking](010-Exercise-While-Loops/04.walking.js) · [Coins](010-Exercise-While-Loops/05.coins.js) · [Cake](010-Exercise-While-Loops/06.cake.js) · [Moving](010-Exercise-While-Loops/07.moving.js) |
+| 011 | Nested Loops | [Clock](011-Nested-Loops/01.clock.js) · [Multiplication Table](011-Nested-Loops/02.multiplicationTable.js) · [Combinations](011-Nested-Loops/03.combinations.js) · [Sum of Two Numbers](011-Nested-Loops/04.sumOfTwoNumbers.js) · [Travelling](011-Nested-Loops/05.travelling.js) · [Building](011-Nested-Loops/06.building.js) |
+| 012 | Exercise: Nested Loops | [Number Pyramid](012-Exercise-Nested-Loops/01.numberPyramid.js) · [Equal Sums Even Odd Position](012-Exercise-Nested-Loops/02.equalSumsEvenOddPosition.js) · [Sum Prime Non Prime](012-Exercise-Nested-Loops/03.sumPrimeNonPrime.js) · [Train the Trainers](012-Exercise-Nested-Loops/04.trainTheTrainers.js) · [Special Numbers](012-Exercise-Nested-Loops/05.specialNumbers.js) · [Cinema Tickets](012-Exercise-Nested-Loops/06.cinemaTickets.js) |
+| 013 | Exam Preparation | [Movie Profit](013-Exam-Preparation/01.movieProfit.js) · [Family Trip](013-Exam-Preparation/02.familyTrip.js) · [Gymnastics](013-Exam-Preparation/03.gymnastics.js) · [Movie Ratings](013-Exam-Preparation/04.movieRatings.js) · [Tourist Shop](013-Exam-Preparation/05.touristShop.js) · [Vet Parking](013-Exam-Preparation/06.vetParking.js) |
+
+## Run
+
+Needs Node.js 24. Every lecture is its own npm project; solutions export a function that the Mocha + Chai tests call.
+
+```bash
+cd 006-Exercise-Conditional-Statements-Advanced
+npm install
+npm test
+```
+
+## License
+
+[MIT](LICENSE)
+
+## Course materials
+
+Slides, task sheets and lecture videos for each lesson.
+
+| Lesson | Materials | Video |
+| ------ | --------- | ----- |
+| [001-First-Steps-In-Coding](001-First-Steps-In-Coding) | [Pb-Js-First-Steps-In-Coding-Lab.pdf](001-First-Steps-In-Coding/Resources/Pb-Js-First-Steps-In-Coding-Lab.pdf) · [Pb-Js-First-Steps-In-Coding.pdf](001-First-Steps-In-Coding/Resources/Pb-Js-First-Steps-In-Coding.pdf) | [Video](https://youtu.be/oTKVsF7Fzp4) |
+| [002-Exercise-First-Steps-In-Coding](002-Exercise-First-Steps-In-Coding) | [Pb-Js-First-Steps-In-Coding-Exercise.pdf](002-Exercise-First-Steps-In-Coding/Resources/Pb-Js-First-Steps-In-Coding-Exercise.pdf) | [Video](https://youtu.be/Cxpwg872ExM) |
+| [003-Conditional-Statements](003-Conditional-Statements) | [Pb-Js-Conditional-Statements-Lab.pdf](003-Conditional-Statements/Resources/Pb-Js-Conditional-Statements-Lab.pdf) · [Pb-Js-Conditional-Statements.pdf](003-Conditional-Statements/Resources/Pb-Js-Conditional-Statements.pdf) | [Video](https://youtu.be/Zw06znXT17s) |
+| [004-Exercise-Conditional-Statements](004-Exercise-Conditional-Statements) | [Pb-Js-Conditional-Statements-Exercise.pdf](004-Exercise-Conditional-Statements/Resources/Pb-Js-Conditional-Statements-Exercise.pdf) | [Video](https://youtu.be/9I5twmmpMy0) |
+| [005-Conditional-Statements-Advanced](005-Conditional-Statements-Advanced) | [Pb-Js-Nested-Conditional-Statements-Lab.pdf](005-Conditional-Statements-Advanced/Resources/Pb-Js-Nested-Conditional-Statements-Lab.pdf) · [Pb-Js-Nested-Conditional-Statements.pdf](005-Conditional-Statements-Advanced/Resources/Pb-Js-Nested-Conditional-Statements.pdf) | [Video](https://youtu.be/Jbwj95VGCs4) |
+| [006-Exercise-Conditional-Statements-Advanced](006-Exercise-Conditional-Statements-Advanced) | [Pb-Js-Nested-Conditional-Statements-xercise.pdf](006-Exercise-Conditional-Statements-Advanced/Resources/Pb-Js-Nested-Conditional-Statements-xercise.pdf) | [Video](https://youtu.be/18_nsMWZelY) |
+| [007-For-Loops](007-For-Loops) | [Pb-Js-For-Loop-Lab.pdf](007-For-Loops/Resources/Pb-Js-For-Loop-Lab.pdf) · [Pb-Js-For-Loop.pdf](007-For-Loops/Resources/Pb-Js-For-Loop.pdf) | [Video](https://youtu.be/V6NfGj_fGPo) |
+| [008-Exercise-For-Loops](008-Exercise-For-Loops) | [Pb-Js-For-Loop-Exercise.pdf](008-Exercise-For-Loops/Resources/Pb-Js-For-Loop-Exercise.pdf) | [Video](https://youtu.be/pIHsaah_sDM) |
+| [009-While-Loops](009-While-Loops) | [Pb-Js-While-Loop-Lab.pdf](009-While-Loops/Resources/Pb-Js-While-Loop-Lab.pdf) · [Pb-Js-While-Loop.pdf](009-While-Loops/Resources/Pb-Js-While-Loop.pdf) | [Video](https://youtu.be/M1ga4IZpr3U) |
+| [010-Exercise-While-Loops](010-Exercise-While-Loops) | [Pb-Js-While-Loop-Exercise.pdf](010-Exercise-While-Loops/Resources/Pb-Js-While-Loop-Exercise.pdf) | [Video](https://youtu.be/R2_6TlGvO40) |
+| [011-Nested-Loops](011-Nested-Loops) | [Pb-Js-Nested-Loops-Lab.pdf](011-Nested-Loops/Resources/Pb-Js-Nested-Loops-Lab.pdf) · [Pb-Js-Nested-Loops.pdf](011-Nested-Loops/Resources/Pb-Js-Nested-Loops.pdf) | [Video](https://youtu.be/JIfQ1FWkN3M) |
+| [012-Exercise-Nested-Loops](012-Exercise-Nested-Loops) | [Pb-Js-Nested-Loops-Exercise.pdf](012-Exercise-Nested-Loops/Resources/Pb-Js-Nested-Loops-Exercise.pdf) | [Video](https://youtu.be/9zrHKXlv8k4) |
+| [013-Exam-Preparation](013-Exam-Preparation) | [Exam-Preparation-Sept-.pdf](013-Exam-Preparation/Resources/Exam-Preparation-Sept-.pdf) | [Video](https://youtu.be/rtYzeEfE_vI) |

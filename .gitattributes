@@ -1,0 +1,14 @@
+# Normalize line endings: LF in the repo and on checkout
+* text=auto eol=lf
+
+*.js   text diff=javascript
+*.json text
+*.md   text diff=markdown
+*.yml  text
+
+# Lockfiles are generated: keep them out of diffs and language stats
+package-lock.json -diff linguist-generated=true
+
+*.pdf  binary
+*.png  binary
+*.jpg  binary
